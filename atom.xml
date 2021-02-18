@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huipages.github.io/hui.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-02-18T07:33:48.492Z</updated>
+    <title>NewCraft</title>
+    <updated>2021-02-18T11:34:50.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huipages.github.io/hui.github.io/"/>
     <link rel="self" href="https://huipages.github.io/hui.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>1.16.5纯生存服务器help界面</subtitle>
     <logo>https://huipages.github.io/hui.github.io/images/avatar.png</logo>
     <icon>https://huipages.github.io/hui.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, NewCraft</rights>
+    <entry>
+        <title type="html"><![CDATA[1.16.5纯生存服务器基本概览]]></title>
+        <id>https://huipages.github.io/hui.github.io/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/</id>
+        <link href="https://huipages.github.io/hui.github.io/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/">
+        </link>
+        <updated>1719-03-11T07:34:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>Attention，本服务器的游戏中关闭了死亡不掉落，每次的死亡意味着可能重新来过<br>
+本服务器无任何插件，仅有一个世界<br>
+不可熊服</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Attention，本服务器的游戏中关闭了死亡不掉落，每次的死亡意味着可能重新来过<br>
+本服务器无任何插件，仅有一个世界<br>
+不可熊服</p>
+<h2 id="-more-一-pvp1在得到玩家允许后可以自由pvp是否归还装备由参与玩家所定输方2严禁在他人挂机时击杀并窃取装备发现交由管理员酌情处理3pvp时严禁带有挑衅的词语不得口吐芬芳更不得互骂4遵守pvp规则尽量避免岩浆烫人以免装备丢失5不-得-偷-袭二-生存1再次强调死亡后装备丢失小心为好2为了保持服务器内生存区域的干净整洁请勿随地放置方块3不可有偷窃烧杀抢掠等行为4主城的任何物品及方块非所有者不可乱动三-生产1禁止多个大规模高频红石机器2禁止随地开发红石机器3必须要将废弃机器拆除4加大农业及畜牧业生产食物极其缺乏"><!-- more --><br>
+一、PVP<br>
+1.在得到玩家允许后可以自由PVP，是否归还装备由参与玩家所定(输方)<br>
+2.严禁在他人挂机时击杀并窃取装备，发现交由管理员酌情处理<br>
+3.PVP时严禁带有挑衅的词语，不得口吐芬芳，更不得互骂<br>
+4.遵守PVP规则，尽量避免岩浆烫人，以免装备丢失<br>
+5.不 ！得 ！偷 ！袭！<br>
+二、生存<br>
+1.再次强调，死亡后装备丢失，小心为好<br>
+2.为了保持服务器内生存区域的干净整洁，请勿随地放置方块<br>
+3.不可有偷窃，烧杀抢掠等行为<br>
+4.主城的任何物品及方块非所有者不可乱动<br>
+三、生产<br>
+1.禁止多个大规模高频红石机器<br>
+2.禁止随地开发红石机器<br>
+3.必须要将废弃机器拆除<br>
+4.加大农业及畜牧业生产(食物极其缺乏)</h2>
+<p>以上是对服务器情况要求得基本介绍，其他方面的请参考本站其他文章(持续更新中)</p>
+]]></content>
+    </entry>
 </feed>
