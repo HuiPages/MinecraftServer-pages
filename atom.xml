@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://huipages.github.io/hui.github.io/</id>
+    <id>https://https://huipages.github.io/MinecraftServer-pages/</id>
     <title>NewCraft</title>
-    <updated>2021-02-18T11:35:00.348Z</updated>
+    <updated>2021-02-19T04:01:36.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://huipages.github.io/hui.github.io/"/>
-    <link rel="self" href="https://huipages.github.io/hui.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://huipages.github.io/MinecraftServer-pages/"/>
+    <link rel="self" href="https://https://huipages.github.io/MinecraftServer-pages/atom.xml"/>
     <subtitle>1.16.5纯生存服务器help界面</subtitle>
-    <logo>https://huipages.github.io/hui.github.io/images/avatar.png</logo>
-    <icon>https://huipages.github.io/hui.github.io/favicon.ico</icon>
+    <logo>https://https://huipages.github.io/MinecraftServer-pages/images/avatar.png</logo>
+    <icon>https://https://huipages.github.io/MinecraftServer-pages/favicon.ico</icon>
     <rights>All rights reserved 2021, NewCraft</rights>
     <entry>
         <title type="html"><![CDATA[1.16.5纯生存服务器基本概览]]></title>
-        <id>https://huipages.github.io/hui.github.io/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/</id>
-        <link href="https://huipages.github.io/hui.github.io/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/">
+        <id>https://https://huipages.github.io/MinecraftServer-pages/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/</id>
+        <link href="https://https://huipages.github.io/MinecraftServer-pages/post/1165-chun-sheng-cun-fu-wu-qi-ji-ben-gai-lan/">
         </link>
         <updated>1719-03-11T07:34:07.000Z</updated>
         <summary type="html"><![CDATA[<p>Attention，本服务器的游戏中关闭了死亡不掉落，每次的死亡意味着可能重新来过<br>
