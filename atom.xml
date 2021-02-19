@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huipages.github.io/MinecraftServer-pages/.</id>
-    <title>NewCraft</title>
-    <updated>2021-02-19T06:46:56.181Z</updated>
+    <title>MineCraftServer</title>
+    <updated>2021-02-19T06:48:32.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huipages.github.io/MinecraftServer-pages/."/>
     <link rel="self" href="https://huipages.github.io/MinecraftServer-pages/./atom.xml"/>
     <subtitle>1.16.5纯生存服务器help界面</subtitle>
     <logo>https://huipages.github.io/MinecraftServer-pages/./images/avatar.png</logo>
     <icon>https://huipages.github.io/MinecraftServer-pages/./favicon.ico</icon>
-    <rights>All rights reserved 2021, NewCraft</rights>
+    <rights>All rights reserved 2021, MineCraftServer</rights>
 </feed>
